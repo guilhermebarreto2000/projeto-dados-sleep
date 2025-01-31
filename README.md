@@ -1,4 +1,4 @@
-# Projeto-Dados-Sleep
+# Projeto Dados Sleep
 Análise de dados sobre os fatores que influenciam o sono de 62 espécies de mamíferos, como peso do cérebro, índice de predação, tempo de gestação, dentre outros
 
 # Fonte dos dados analisados
@@ -69,7 +69,9 @@ selected_features = X_train.columns[select_k_best.get_support()]
 print("Selected features:", selected_features)
 
 
-4) Observação das relações entre todos os atributos e a variável alvo('total_sleep'
+4) Observação das relações entre todos os atributos e a variável alvo('total_sleep')
+ ![Image](https://github.com/user-attachments/assets/e4c1ee99-8e0b-4d1f-8aad-686c35f8c004)
+
 
    
  
