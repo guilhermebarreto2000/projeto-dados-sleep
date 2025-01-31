@@ -69,9 +69,19 @@ selected_features = X_train.columns[select_k_best.get_support()]
 print("Selected features:", selected_features)
 
 
-4) Observação das relações entre todos os atributos e a variável alvo('total_sleep')
+4)Conclusão:
+
+Relações entre todos os atributos e a variável alvo('total_sleep')
  ![Image](https://github.com/user-attachments/assets/e4c1ee99-8e0b-4d1f-8aad-686c35f8c004)
+
+ Ao se utilizar o método SelectKBest, obteve-se o resultado de que as variáveis que mais influenciam na quantidade total de horas de sono das 62 espécies são:'Gestation_time' , 'Sleep_exposure_index' e 'Danger_index'.
+ Dessa forma, entende-se que o tempo de gestação dos indivíduos, o índice de exposição durante o sono e o índice de perigo são os fatores que mais vão fazer o tempo de sono das espécies serem maiores ou menores.
+ Além disso, através do heatmap exibido na imagem acima, percebe-se diferentes correlações. Nesse sentido, os "quadrados" do gráfico que possuem a cor vermelha mais escura representam as correlações mais negativas e os "quadrados" do gráfico que possuem a cor de verde mais escuro, representam as correlações mais positivas.
+ Para que fique mais claro, deve-se entender que uma correlação positiva indica duas variáveis que "seguem o mesmo sentido", ou seja, quando uma sobe, a outra sobe; quando uma desce, a outra desce.
+ Sendo assim, pode-se inferir que em relação ao 'total_sleep', as variáveis que possuem a maior correlação positiva são: 'body_weight', 'brain_weight' e 'max_life_span'. Então, quanto maior o peso do corpo, o peso docérebro e a vida útil máxima, também maior será a quantidade de horas de sono.
+ Em contrapartida, quanto maior o tempo de gestação, o índice de exposição durante o sono e o índice de perigo, menores serão as quantidades de sono desses mamíferos.
+ Portanto, os questionamentos apresentados foram respondidos por meio de uma análise de dados que envolve tanto o processo de limpeza e processamento, quanto o uso do Machine Learning para se verificar os atributos que mais influenciam no resultado final: o tempo total de sono dos 62 animais.
 
 
    
- 
+
