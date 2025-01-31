@@ -1,6 +1,6 @@
 #Dados sobre o sono de 62 mamíferos 
 
-#As conclusões desses dados trabalhados estão presentes no artigo "Sleep in Mammals: Ecological and Constitutional Correlates" by Allison, T. and Cicchetti, D. (1976), Science, November 12, vol. 194, pp. 732-734. 
+#As conclusões desses dados trabalhados estão presentes no artigo "Sleep in Mammals: Ecological and Constitutional Correlates" de Allison, T. e Cicchetti, D. (1976), Science, November 12, vol. 194, pp. 732-734. 
 #Para as conclusões, os autores do artigo citado utilizaram variáveis como: 'species of animal', 'body weight in kg', 'brain weight in g', 'slow wave ("nondreaming") sleep (hrs/day) 'paradoxical ("dreaming") sleep (hrs/day)', 'total sleep (hrs/day) (sum of slow wave and paradoxical sleep)', 'maximum life span (years)', 'gestation time (days) ', 'predation index (1-5) 1 = minimum (least likely to be preyed upon) 5 = maximum (most likely to be preyed upon) ', 'sleep exposure index (1-5) 1 = least exposed (e.g. animal sleeps in a well-protected den) 5 = most exposed' e 'overall danger index (1-5) (based on the above two indices and other information) 1 = least danger (from other animals) 5 '.
 
 
