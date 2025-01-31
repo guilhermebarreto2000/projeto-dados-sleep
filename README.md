@@ -8,7 +8,7 @@ Análise de dados sobre os fatores que influenciam o sono de 62 espécies de mam
 
 # Objetivo do dataset
 
- O objetivo do projeto é mostrar de forma pragmática a resposta para os seguintes questionamento: "Quais da 10 variáveis estudadas possuem uma maior relevância para se obter o total de horas de sono dessas espécies? Essas principais atribuições possuem uma correlação positiva ou negativa com a variável principal('total_sleep" = total de sono) ?".
+ O objetivo do projeto é mostrar de forma pragmática a resposta para os seguintes questionamento: "Quais da 10 variáveis estudadas mais influenciam no sono dessas espécies? Essas principais atribuições possuem uma correlação positiva ou negativa com a variável principal('total_sleep" = total de sono) ?".
 
 
 # Variáveis do "Sleep Data":
