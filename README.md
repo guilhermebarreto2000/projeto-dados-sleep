@@ -1,14 +1,14 @@
 # Projeto Dados Sleep
-Análise de dados sobre os fatores que influenciam o sono de 62 espécies de mamíferos, como peso do cérebro, índice de predação, tempo de gestação, dentre outros
+Análise de dados sobre os fatores que influenciam o sono de 62 espécies de mamíferos, como o peso do cérebro, o índice de predação, o tempo de gestação, dentre outros
 
 # Fonte dos dados analisados
 
  Os dados usados nessa análise foram retirados do artigo "Sleep in Mammals: Ecological and Constitutional Correlates" de Allison, T. e Cicchetti, D. (1976), Science, November 12, vol. 194, pp. 732-734, disponíveis em: "https://www.kaggle.com/datasets/mathurinache/sleep-dataset/data". 
- O artigo em questão estuda sobre uma série de variáveis de 62 espécies de animais e o quanto que cada uma dessas características influencia na durabilidade do sono desses animais que são todos mamíferos.
+ O artigo em questão estuda sobre uma série de variáveis de 62 espécies de animais e o quanto que cada uma dessas características influencia na durabilidade do sono desses animais mamíferos.
 
 # Objetivo do dataset
 
- O objetivo do projeto é mostrar de forma pragmática a resposta para os seguintes questionamento: "Quais da 10 variáveis estudadas mais influenciam no sono dessas espécies? Essas principais atribuições possuem uma correlação positiva ou negativa com a variável principal('total_sleep" = total de sono) ?".
+ O objetivo do projeto é mostrar de forma pragmática a resposta para os seguintes questionamento: "Quais da 10 variáveis estudadas mais influenciam no sono dessas espécies? Essas principais variáveis possuem uma correlação positiva ou negativa com a variável principal('total_sleep" = total de sono) ?".
 
 
 # Variáveis do "Sleep Data":
