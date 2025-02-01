@@ -1,5 +1,5 @@
 # Projeto Dados Sleep
-Análise de dados sobre os fatores que influenciam o sono de 62 espécies de mamíferos, como o peso do cérebro, o índice de predação, o tempo de gestação, dentre outros
+Análise de dados sobre os fatores que influenciam o sono de 62 espécies de mamíferos, como o peso do cérebro, o índice de predação, o tempo de gestação, dentre outros.
 
 # Fonte dos dados analisados
 
